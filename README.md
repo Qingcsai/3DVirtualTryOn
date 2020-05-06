@@ -1,8 +1,6 @@
 # 3D-Virtual-Try-On
 3D Virtual Try On by Three.js editor.
 
-[demo](https://qingcsai.github.io/3DVirtualTryOn/index.html)
-
 
 ## Usage (Win10)
 * Clone this repo to your working directory
