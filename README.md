@@ -8,7 +8,7 @@
 git clone https://github.com/Qingcsai/3DVirtualTryOn.git
 ```
 
-* cd ```cmd``` to your working directory and run
+* cmd ```cd``` to your working directory and run
 ```python3
 #for py3
 python -m http.server
