@@ -15,5 +15,5 @@ git clone https://github.com/Qingcsai/3DVirtualTryOn.git
 #for py3
 python -m http.server
 ```
-* Open chrome browser and enter URL：
+* Open Chrome/Edge browser and enter URL：
 ```localhost:8000```
