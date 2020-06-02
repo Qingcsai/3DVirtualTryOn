@@ -1,5 +1,5 @@
 # 3D-Virtual-Try-On
-3D Virtual Try On by Three.js editor.
+3D Virtual Try On by Three.js editor. [\[demo\]](https://qingcsai.github.io/3DVirtualTryOn/)
 
 
 ## Usage (Win10)
