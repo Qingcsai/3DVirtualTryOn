@@ -18,3 +18,5 @@ python -m http.server
 ```
 * Open Chrome/Edge browser and enter URL：
 ```localhost:8000```
+
+Now you can move your mouse to the clothes or body of the model to see the virtual try on.
