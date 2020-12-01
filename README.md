@@ -4,6 +4,7 @@
 On line [\[demo\]](https://qingcsai.github.io/3DVirtualTryOn/)  
 You need to wait for a while for loading all the 3d models, before that you will see a blank screen...
 
+![3D-virtual-try-on.JPG](./3D-virtual-try-on.JPG)
 
 ## Usage (Win10)
 * Clone this repo to your working directory
@@ -19,4 +20,4 @@ python -m http.server
 * Open Chrome/Edge browser and enter URL：
 ```localhost:8000```
 
-Now you can move your mouse to the clothes or body of the model to see the virtual try on.
+Now you can move your mouse to the clothes or body of the model to try the virtual try on.
