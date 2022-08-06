@@ -4,7 +4,7 @@
 On line [\[demo\]](https://qingcsai.github.io/3DVirtualTryOn/)  
 You need to wait for a while for loading all the 3d models, before that you will see a blank screen...
 
-![3D-virtual-try-on.jpg](./3D-virtual-try-on.jpg)
+![virtual-try-on.jpg](./virtual-try-on.jpg)
 
 ## Usage (Win10)
 * Clone this repo to your working directory
